@@ -1,0 +1,23 @@
+/*Footer*/
+.footer {
+	background-color: grey;
+	height: 350px;
+	color: white;
+}
+
+.footer .row {
+	position: relative;
+	top: 30px;
+}
+
+.footer .col-2 .logo_footer {
+	display: block;
+	position: relative;
+	top: 60px;
+	left: 110px;
+	margin-top: 20px;
+}
+
+.footer .col-2 .logo_download {
+	margin-left: 35px;
+}
